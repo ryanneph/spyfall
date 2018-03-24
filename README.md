@@ -48,7 +48,7 @@ Edit the locations file as required:
 
 Run the meteor server to test locally:
 
-	meteor --settings settings/example.json
+	meteor --settings settings/settings.json
 
 Sadly, production deployment has gotten a little trickier since meteor.com stopped providing easy free hosting. I recommend a combination of digitalocean.com and mupx for a relatively easy and robust solution.
 
