@@ -1,6 +1,6 @@
 # Meteor Spyfall
 
-Spyfall on your mobile device!
+Personal version of Spyfall on your mobile device, forked from Scooter3 which was originally forked from mpcovcd.  All credit goes to original authors.
 
 NOTE: Due to work responsibilities and life generally getting in the way, I haven't had the time to spend maintaining the Spyfall site to the level it deserves. As such, I'm passing the baton across to a new developer who'd like to take on the mantle for a while. I wish him all the best! Regards - @evanbrumley
 
