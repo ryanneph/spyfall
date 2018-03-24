@@ -45,10 +45,20 @@ Enter the spyfall directory:
 Edit the locations file as required:
 
 	nano lib/locations.js
+	
+Also, edit the spyfall/spyfall/settings/settings.json file to the appropriate URL:
+
+	cd ./settings
+	sudo nano ./settings.json
 
 Run the meteor server to test locally:
 
 	meteor --settings settings/settings.json
+
+You may also have to install the babel-runtime (from within the spyfall/spyfall directory):
+
+	sudo meteor npm install --save babel-runtime
+
 
 Sadly, production deployment has gotten a little trickier since meteor.com stopped providing easy free hosting. I recommend a combination of digitalocean.com and mupx for a relatively easy and robust solution.
 
