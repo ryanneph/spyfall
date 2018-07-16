@@ -1,5 +1,6 @@
 import { Meteor } from 'meteor/meteor';
 
+// clean data > 2 hours old from db
 function cleanUpGamesAndPlayers() {
   var cutOff = moment().subtract(2, 'hours').toDate().getTime();
 

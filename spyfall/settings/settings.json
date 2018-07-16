@@ -1,5 +1,8 @@
 {
-    "public": {
-        "url": "http://spyfall-online.herokuapp.com/"
-    }
+  "public": {
+    "ga": {
+      "account": "UA-118034924-3"
+    },
+    "url": "http://spyfall-online.herokuapp.com/"
+  }
 }
