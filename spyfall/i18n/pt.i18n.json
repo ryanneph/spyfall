@@ -23,7 +23,7 @@
         "enter an access code": "Introduz o código de acesso",
         "invalid access code": "Desculpa, não foi encontrado nenhum jogo com esse código de acesso!",
         "join": "Entrar",
-        "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>Spyfall</a> projetado por Alexandr Ushan, publicado por <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
+        "footer": "<a href='http://international.hobbyworld.ru/spyfall' target='_blank'>Spyfall</a> projetado por Alexandr Ushan, publicado por <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
     },
     "locations": {
         "airplane": "Avião",
